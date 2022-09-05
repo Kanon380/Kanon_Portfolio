@@ -8,7 +8,7 @@ export default function Header () {
       {/* <div className="w-full fixed z-50">
         <Nav />
       </div> */}
-      <div className="h-screen pt-20 relative">
+      <div className="h-screen relative">
         <Main />
         <div className="absolute m-auto left-0 right-0 top-3/4 animate-bounce w-6 h-6">
           <BsCaretDown className="w-full h-full" />

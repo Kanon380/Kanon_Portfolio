@@ -29,7 +29,7 @@ export default function Bio() {
         <Circle text='2021.04.01' />
         <Line text={`SEとして就職`} />
         <Circle text='2022.01.31' />
-        <Line text={`主に評価の面で不満を抱き退職`} />
+        <Line text={`評価制度に折り合いがつかず退職`} />
         <Circle text='2022.02.~~' />
         <Line text={`現在に至る`} />
       </div>
